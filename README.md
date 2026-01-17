@@ -12,4 +12,6 @@ AES-128 Round Visualizer : https://claude.ai/public/artifacts/9b9fffec-8b5c-4895
 
 AES-256 Encryption Visualizer : https://claude.ai/public/artifacts/9068daac-bb01-47e2-be5e-1177c6bfadd4
 
+AES-256 Round Key Calculator : https://claude.ai/public/artifacts/16284fe6-7766-4aba-a6b5-598cc0fcb705
+
 
